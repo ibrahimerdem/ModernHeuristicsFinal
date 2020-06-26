@@ -11,7 +11,7 @@ the algorithm is capable of finding optimal solution, but towards NP-Hard it is 
 tained only nearer solutions.
 Keywords. Ant Colony, Algorithm, Optimization, Traveling Salesperson
 
-- [PDF Version](EM 0014 Modern Heuristics Final Project.pdf)
+- [PDF Version](EM%200014%20Modern%20Heuristics%20Final%20Project.pdf)
 - [Jupyter Notebook Version](AntSystem.ipynb)
 - [Python Source Code](AntSystem.py)
 - [Jupyter Notebook Version (Without Markdowns](AntSystemNoMarkdown.ipynb)
