@@ -11,4 +11,7 @@ the algorithm is capable of finding optimal solution, but towards NP-Hard it is 
 tained only nearer solutions.
 Keywords. Ant Colony, Algorithm, Optimization, Traveling Salesperson
 
+[PDF Version](AntSystem.ipynb)
+[Jupyter Notebook Version](AntSystem.ipynb)
 [Python Source Code](AntSystem.py)
+[Jupyter Notebook Version (Without Markdowns](AntSystemNoMarkdown.ipynb)
