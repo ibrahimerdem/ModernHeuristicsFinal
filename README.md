@@ -9,7 +9,7 @@ mization,  built with Python Numpy library for TSP is introduced and tested some
 small sized examples.  With relatively small sized data, some experiments show that
 the algorithm is capable of finding optimal solution, but towards NP-Hard it is ob-
 tained only nearer solutions.
-Keywords. Ant Colony, Algorithm, Optimization, Traveling Salesperson
+**Keywords.** Ant Colony, Algorithm, Optimization, Traveling Salesperson
 
 - [PDF Version](EM%200014%20Modern%20Heuristics%20Final%20Project.pdf)
 - [Jupyter Notebook Version](AntSystem.ipynb)
